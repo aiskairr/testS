@@ -1,0 +1,74 @@
+.contacts-header {float: none; text-align: right; padding: 10px; 
+position: fixed; background: #ffffff; 
+width:100%; height:40px;
+z-index:10000;}
+
+.contacts-header a {color:#00a8ab; text-decoration:none; padding-right: 20px;}
+
+.contacts-header a:hover {color:#ed1556; text-decoration:none; }
+
+.g-header {margin-top:40px;}
+
+.docode-hr{margin-top: 0;}
+.docode-cat-desc{}
+
+.recall
+{
+    background: #07b0ad;
+    border: 1px solid #008583;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.recall:hover, .recall:active, .recall:focus
+{
+    background: #0cc5c2;
+    border-color: #008583;
+    color: #fff;
+    text-decoration: none
+}
+.inputtext
+{
+    display: block;
+    width: 100%;
+    height: 46px;
+    padding: 10px 11px;
+    font-size: 22px;
+    line-height: 1;
+    color: #000;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #d6d5db;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    -moz-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+}
+.order-field-label
+{
+    color: grey;
+    font-size: 14px;
+    margin-top: 20px;
+}
+.recall-form-title
+{
+    font-size: 26px;
+}
+.order-button-element
+{
+margin: 20px;
+}
+
+.ic-in:before
+{
+    content: "in";
+    font-size: 18px !important;
+    padding-top: 2px !important;
+}

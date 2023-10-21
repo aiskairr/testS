@@ -1,0 +1,158 @@
+
+
+/* Start:/local/templates/html_dev/components/bitrix/catalog/contacts/style.css?14246848953082*/
+.b-distribution .b-map{
+    position: relative;
+    margin: 0 0px 40px 0px
+    border-top: 8px solid #157087;
+    background: #dcdcdc;
+}
+.b-index-map-info{
+    position: absolute;
+    width: 238px;
+    right: 30px;
+    z-index: 5;
+    overflow: hidden;
+    margin-top: 65px;
+}
+.b-index-map-info dd {
+   margin-left: 0;
+   margin-bottom: 2px;
+}
+.b-map-e-ugc-title {
+   margin-bottom: 5px;
+}
+.b-contact-info-block-tab {
+	margin-left: 28px;
+	margin-bottom: 44px;
+	margin-top: -10px;
+}
+.b-index-map-info-header{
+    padding: 14px 15px;
+    background: #00a8ab;
+    font-size: 12px;
+    color: #fff;
+    font-weight: bold;
+}
+.b-index-map-info-text{
+    padding: 20px 15px;
+}
+.b-index-map-info-contacts {padding: 10px 15px;}
+.b-index-map-info-contacts{
+background: #fff;
+color: #0e2129;
+}
+.b-index-map-info-contacts a {
+  color: #0e65b7;
+}
+
+.b-index-map-info-contacts a:focus, .b-index-map-info-contacts a:hover{
+}
+.b-index-map-info-contacts h5{
+    margin-bottom: 20px;
+}
+.b-index-map-info-contacts-table{
+    width: 100%;
+    text-align: left;
+}
+.b-index-map-info-contacts-table tbody td{
+
+}
+.b-index-map-info-contacts dl.contact {
+	font: 12px/1.4 Arial, Regular;
+	position: relative;
+	overflow: hidden;
+    color: #0e2129;
+}
+.b-index-map-info-contacts h4 {
+	color: #0e2129;
+	font-size: 12px;
+	margin: 5px 0 20px 0;
+        font-weight: bold;
+}
+.b-distribution li.item{
+	padding-bottom: 15px;
+}
+
+.b-contact-city {
+  margin: 35px; }
+ .g-content .b-contact-city {
+  margin: 0 0 35px 0; 
+ }
+  .b-contact-city .contact-city-list, .b-contact-city .contact-city-list-fix {
+    width: 110px;
+    display: inline-block;
+    *zoom: 1;
+    *display: inline;
+    vertical-align: top; 
+    }
+    
+.b-contact-city .contact-city-item {
+    width: 160px;
+    margin: 0 0px 5px 0px; 
+}
+
+.b-contact-city .contact-city-item.first  {
+    font-size: 16px;
+	font-weight: bold;
+    margin: 0 0px 10px 0px; 
+}
+
+   .contact-city-item._active a, .contact-city-item._active span {color: #E72D2E;}
+
+.b-map-city {
+  margin-bottom: 40px; }
+  .b-contact-city .map-city-title {
+    margin: 10px 0 0; }
+    
+.g-content .b-contact-city ul li {
+	list-style: none;
+}
+.b-table-adress td p{
+	margin-bottom: -5px;
+}
+.b-table-adress tr td:nth-child(1){
+	width:200px;
+}
+.b-table-adress table {
+    width: 100%;
+}
+
+.form-control-ya {
+/* display: block; */
+width: 85%;
+height: 38px;
+padding: 6px 12px;
+font-size: 14px;
+line-height: 1.71428571;
+color: #555555;
+background-color: #ffffff;
+background-image: none;
+border: 1px solid #cccccc;
+border-radius: 4px;
+box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+-webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.ymaps-point-overlay .db-ymaps-cluster {
+line-height: 27px;
+width: 66px;
+height: 55px;
+background-repeat: no-repeat;
+text-align: left!important;
+position: relative;
+top: -42px;
+left: -15px;
+}
+
+.ymaps-point-overlay .db-ymaps-cluster-text {
+font-weight: 700!important;
+padding: 4px 7px 0 3px;
+color: black;
+width: 38px;
+text-align: center;
+}
+.adress{font-size: 12px;}
+/* End */
+/* /local/templates/html_dev/components/bitrix/catalog/contacts/style.css?14246848953082 */
